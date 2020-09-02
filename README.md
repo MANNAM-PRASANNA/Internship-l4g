@@ -1,1 +1,1 @@
-# Intership-l4g
+# Internship-l4g
