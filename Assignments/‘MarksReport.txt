@@ -1,0 +1,6 @@
+Class Average :49.416666666666664
+Pass Percentage :60.0
+Fail Percentage :40.0
+Distinction Pass Percentage :23.333333333333332
+High Mark Frequency :(100, 1)
+Less Mark Frequency :(0, 1)
